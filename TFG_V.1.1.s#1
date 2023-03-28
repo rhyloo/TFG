@@ -2773,6 +2773,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="83.82" y="71.12" size="1.778" layer="91">UART_RX</text>
 <text x="83.82" y="73.66" size="1.778" layer="91">UART_TX</text>
 <rectangle x1="180.34" y1="-12.7" x2="279.4" y2="78.74" locked="yes" layer="253"/>
+<text x="182.88" y="81.28" size="0.8128" layer="91">Draft</text>
 <text x="182.88" y="71.12" size="6.4516" layer="91">Draft</text>
 </plain>
 <instances>
